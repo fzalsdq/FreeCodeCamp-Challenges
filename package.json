@@ -1,6 +1,6 @@
 {
-	"author": "M.Faisal Siddiqi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "M.Faisal Siddiqi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
