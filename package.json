@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "M.Faisal Siddiqi",
-	"description": "This is a new package. Completed 2nd instruction"
+	"author": "faisal siddiqi",
+	"description": "this is a new package. completed 2nd instruction",
+	"keywords": ["freecodecamp","instructions", "given"], 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
